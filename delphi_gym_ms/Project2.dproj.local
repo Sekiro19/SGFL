@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/16 00:22:50.000.317,=C:\Users\ROGUE1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/22 18:11:49.000.697,=C:\Users\ROGUE1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/28 17:50:17.000.144,=C:\Users\ROGUE1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/10 22:11:48.000.806,=C:\Users\ROGUE1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/10 22:12:39.000.641,C:\M\SGFL\delphi_gym_ms\Unit2.dfm=C:\Users\ROGUE1\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/01/10 22:12:39.000.641,C:\M\SGFL\delphi_gym_ms\Unit2.pas=C:\Users\ROGUE1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/10 22:12:41.000.789,C:\M\SGFL\delphi_gym_ms\Project2.dproj=C:\Users\ROGUE1\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/01/11 13:44:50.000.601,=C:\M\SGFL\delphi_gym_ms\Unit1.pas</Transaction>
+    <Transaction>2022/01/13 00:03:01.000.140,=C:\M\SGFL\delphi_gym_ms\Unit3.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
